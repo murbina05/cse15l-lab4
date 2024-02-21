@@ -1,7 +1,7 @@
 # In this lab report we will be working with vim 
 
 
-## Part 2
+## Part 1
 
 The first thing I type is command-v and `<Enter>` this will copy the command for cloning the repo that was provided and then I click enter in order to run the command and clone the repository
 ```
@@ -141,3 +141,10 @@ Lastly I will finally push to the actual github repo by typing git push https://
 ```
 [maurbina@ieng6-201]:lab7:70$ git push https://github.com/murbina05/cse15l-lab4.git 
 ```
+
+
+Below is a picture of the whole terminal that includes all the commands that I ran followed by a picture of all code that I changed 
+
+![Image](https://i.imgur.com/uKvfW9C.png)
+
+![Image](https://i.imgur.com/i6NFFhw.png)
