@@ -3,7 +3,7 @@
 
 ## Part 2
 
-The first thing I type is command-v and <Enter> this will copy the command for cloning the repo that was provided and then I click enter in order to run the command and clone the repository
+The first thing I type is command-v and `<Enter>` this will copy the command for cloning the repo that was provided and then I click enter in order to run the command and clone the repository
 ```
 [maurbina@ieng6-201]:~:58$ git clone https://github.com/ucsd-cse15l-s23/lab7
 Cloning into 'lab7'...
@@ -63,7 +63,7 @@ Next I type vim ListExamplesTests.java which will allow me to check the test in 
 
 ```
 
-The code bellow is the ListExamplesTests.java that I will edit. I do this by typing in <down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down> 19 times to go to the assertArrayEquals of testMerge2 method. From here I will type i in order to enter insert mode. Next I hold <left> till I get to the parameters taht we pass to the merge function. Here I will <delete> 1 and type in 2 and <delete> 2 and type in 1
+The code bellow is the ListExamplesTests.java that I will edit. I do this by typing in `<down>` 19 times to go to the assertArrayEquals of testMerge2 method. From here I will type i in order to enter insert mode. Next I hold `<right>` till I get to the parameters taht we pass to the merge function. Here I will `<delete>` 1 and type in 2 and `<delete>` 2 and type in 1
 ```
 import static org.junit.Assert.*;
 import org.junit.*;
