@@ -63,7 +63,7 @@ Next I type vim ListExamplesTests.java which will allow me to check the test in 
 
 ```
 
-The code bellow is the ListExamplesTests.java that I will edit. I do this by typing in <down> 19 times to go to the assertArrayEquals of testMerge2 method. From here I will type i in order to enter insert mode. Next I hold <left> till I get to the parameters taht we pass to the merge function. Here I will <delete> 1 and type in 2 and <delete> 2 and type in 1
+The code bellow is the ListExamplesTests.java that I will edit. I do this by typing in <down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down> 19 times to go to the assertArrayEquals of testMerge2 method. From here I will type i in order to enter insert mode. Next I hold <left> till I get to the parameters taht we pass to the merge function. Here I will <delete> 1 and type in 2 and <delete> 2 and type in 1
 ```
 import static org.junit.Assert.*;
 import org.junit.*;
