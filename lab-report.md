@@ -63,7 +63,7 @@ FAILURES!!!
 Tests run: 2,  Failures: 1
 ```
 
-Next I type v, i, m, `<space>` ListExmaples.java, `<enter>`  which will allow me to check file in order to fix the error
+Next I type v, i, m, `<space>` L,i,s,t,E,x,m,a,p,l,e,s,.,j,a,v,a, `<enter>`  which will allow me to check file in order to fix the error
 ```
 [maurbina@ieng6-201]:lab7:63$ vim ListExamples.java
 
@@ -186,7 +186,7 @@ OK (2 tests)
 
 ```
 
-The last thing I do is push to github I do this first by typing the g, i, t, `<space>`, a, d, d, `<.>`, `<enter>`  which will add the file 
+The last thing I do is push to github I do this first by typing the g, i, t, `<space>`, a, d, d, `<space>`,L,i,s,t,E,x,m,a,p,l,e,s,.,j,a,v,a  `<enter>`  which will add the file 
 ```
 [maurbina@ieng6-201]:lab7:70$ git add ListExamplesTests.java 
 ```
