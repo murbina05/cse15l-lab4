@@ -69,7 +69,7 @@ Next I type v, i, m, `<space>` ListExmaples.java, `<enter>`  which will allow me
 
 ```
 
-The code bellow is the ListExamples.java that I will edit. I do this by holding `<down>` untile I get to the line that updates index1 and change it to index2 by typing i, `<left>` until i get to 1, `<delete>`, 2, `<escape>`, `<shift z>`, `<shift z>` to save the changes. You can see how the file looked before and after the changes below.  
+The code bellow is the ListExamples.java that I will edit. I do this by holding `<down>` until I get to the line that updates index1 and change it to index2 by typing i, `<right>` until i get to 1, `<delete>`, 2, `<escape>`, `<shift z>`, `<shift z>` to save the changes. You can see how the file looked before and after the changes below.  
 ```
 import java.util.ArrayList;
 import java.util.List;
